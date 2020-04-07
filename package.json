@@ -1,0 +1,23 @@
+{
+  "name": "apimobile",
+  "version": "0.1.0",
+  "description": "Pequeno servidor para uso no estudo de states e consumo de api",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenatoFernandesTotti/apiMobile.git"
+  },
+  "author": "Renato Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenatoFernandesTotti/apiMobile/issues"
+  },
+  "homepage": "https://github.com/RenatoFernandesTotti/apiMobile#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^4.1.0"
+  }
+}
