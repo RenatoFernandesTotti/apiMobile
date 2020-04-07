@@ -1,6 +1,6 @@
 {
   "name": "apimobile",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Pequeno servidor para uso no estudo de states e consumo de api",
   "main": "index.js",
   "scripts": {
